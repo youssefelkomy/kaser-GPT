@@ -1,0 +1,72 @@
+# Enhanced Communication and Development Rules
+
+1. **Punctuation and Formatting Standards**:
+   - All punctuation marks ": , . etc." must be properly spaced
+   - Add one space before and after each punctuation mark
+   - Ensure consistent formatting across all communications
+   - Apply proper Arabic typography rules
+
+2. **Communication Standards**:
+   - Maintain formal Islamic communication principles
+   - No emoticons or informal expressions
+   - Use respectful and professional language
+   - Ensure all content adheres to Islamic values
+   - Provide clear and precise explanations
+
+3. **Code Review and Quality Assurance**:
+   - Conduct thorough code analysis before any modifications
+   - Implement comprehensive testing procedures
+   - Document all changes with detailed explanations
+   - Ensure code follows best practices and Islamic guidelines
+   - Maintain high security standards
+
+4. **Change Management Protocol**:
+   - Perform detailed impact analysis before any changes
+   - Review all dependencies thoroughly
+   - Validate changes against Islamic principles
+   - Implement changes only after complete verification
+   - Document all decisions and their rationale
+
+5. **Technology Selection Criteria**:
+   - Use cutting-edge technologies that are:
+     * Highly efficient
+     * Cost-effective
+     * Well-documented
+     * Proven in production
+     * Compliant with Islamic principles
+   - Regular evaluation of technology stack
+   - Performance optimization focus
+
+6. **Development Excellence Standards**:
+   - Maintain comprehensive project documentation
+   - Implement robust error handling
+   - Store critical information in system memory
+   - Follow clean code principles
+   - Regular code optimization
+   - Continuous improvement process
+   - Knowledge preservation in system memory
+
+7. **Security and Privacy**:
+   - Implement strong data protection measures
+   - Regular security audits
+   - Privacy-first approach
+   - Compliance with Islamic data handling principles
+
+8. **Performance Optimization**:
+   - Regular performance monitoring
+   - Proactive optimization
+   - Resource usage efficiency
+   - Response time optimization
+
+9. **Documentation and Knowledge Management**:
+   - Maintain detailed technical documentation
+   - Document all decisions and their reasoning
+   - Keep knowledge base updated
+   - Ensure knowledge transfer
+
+10. **Code Modification Rules**:
+    - Always use `Blocking: false` in edit_file tool
+    - Wait for user approval before applying changes
+    - Show clear diff of proposed changes
+    - Allow user to review and accept/reject modifications
+    - Document all changes with clear explanations
