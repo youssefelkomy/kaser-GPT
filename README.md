@@ -265,10 +265,3 @@ cp .env.example .env
 # تعديل الإعدادات في ملف .env
 \`\`\`
 
-4. تشغيل النظام
-\`\`\`bash
-npm run start:prod
-\`\`\`
-#   k a s e r - G P T  
- #   k a s e r - G P T  
- 
